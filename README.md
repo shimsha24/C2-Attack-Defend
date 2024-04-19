@@ -8,11 +8,11 @@ In this project I am documenting all my learning from Blue Cape Security's C2 At
 
 
 ### Tools Used
-Splunk
-Velociraptor
+- Splunk
+- Velociraptor
 
 ## Steps
-##### Installed VirtualBox
-##### Installed a Windows 10 VM
-##### Installed a Windows Server 2019 VM
-##### Install Active Directory Services the Windows Server
+- Downlaoded and Installed VirtualBox
+- Downlaoded and Installed a Windows 10 VM
+- Downlaoded and Installed a Windows Server 2019 VM
+- Installed Active Directory Services the Windows Server
