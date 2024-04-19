@@ -17,6 +17,12 @@ In this project I am documenting all my learning from Blue Cape Security's C2 At
 - Downloaded and Installed a Windows Server 2019 VM
 - Installed Active Directory Services the Windows Server
   Active directory services are installed on the windows Server anfd promoted this server to Domain controller. choose the domain name for the lab, appended by the toplevel domain label.local.
+
 ![image](https://github.com/shimsha24/C2-Attack-Defend/assets/151268669/4216383c-7159-490c-8d34-26b09c12286f)
-Added additional users for this domain.
+
+Intially there will be one admin account called Administrator. Added additional users for this domain.
+
 ![image](https://github.com/shimsha24/C2-Attack-Defend/assets/151268669/f87d5616-80cb-40bc-908b-27cbeb96690b)
+
+Added the Windows 10 workstation to the domain.
+
