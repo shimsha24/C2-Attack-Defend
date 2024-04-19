@@ -12,7 +12,7 @@ Splunk
 Velociraptor
 
 ## Steps
-Installed VirtualBox
-Installed a Windows 10 VM
-Installed a Windows Server 2019 VM
-Install Active Directory Services the Windows Server
+##### Installed VirtualBox
+##### Installed a Windows 10 VM
+##### Installed a Windows Server 2019 VM
+##### Install Active Directory Services the Windows Server
