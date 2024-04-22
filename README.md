@@ -31,4 +31,6 @@ Project from Blue Cape Security's C2 Attack &amp; Defend DIY Course
 
 
 - Added the Windows 10 workstation to the domain.
-
+  
+  ###### Fixing duplicate IP address issue with Virtual Box
+  
