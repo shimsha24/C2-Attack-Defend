@@ -27,7 +27,8 @@ Project from Blue Cape Security's C2 Attack &amp; Defend DIY Course
 
 ![image](https://github.com/shimsha24/C2-Attack-Defend/assets/151268669/f87d5616-80cb-40bc-908b-27cbeb96690b)
 
-![image](https://github.com/shimsha24/C2-Attack-Defend/assets/151268669/62621ba1-6eb5-4b74-ba38-21218f5d6606)
+![image](https://github.com/shimsha24/C2-Attack-Defend/assets/151268669/5237e0f1-5dc3-4057-801a-1713522c97b8)
+
 
 - Added the Windows 10 workstation to the domain.
 
