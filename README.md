@@ -1,8 +1,10 @@
 # C2-Attack-Defend
-Project from Blue Cape Security's C2 Attack &amp; Defend DIY Course
+Welcome to my GitHub project! 
+This is the free course from Blue Cape Security's 'C2 Attack & Defend DIY Course.' 
+https://bluecapesecurity.com/courses/c2-attack-and-defend/
 
 ## Objective
-
+I am practicing a realistic cyber attack scenario, utilising the Empire Command and Control (C2) framework to carry out an attack on a Windows target VM. This project reflects a true 'purple team' approach, where I learn from both the perspective of a red team operator and a blue team investigator.
 
 ### Skills Learned
 
